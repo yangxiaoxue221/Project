@@ -1,0 +1,16 @@
+Tue Oct 16 23:59:49 PDT 2018
+testclass del 	  01       语文     必修      20     3.00       42       45
+student change 	003     STU3       03,08     7.50
+student change 	007     STU7       10,07     3.50
+class del 	  04       体育     必修      10     2.00       45       45
+student change 	001     STU1                 0.00
+student change 	002     STU2       02,05     5.50
+student change 	005     STU5       03,07     7.00
+Wed Oct 17 00:00:13 PDT 2018
+student del 	002     STU2       02,05     5.50
+class change 	  02       英语     必修      25     4.00       37       50
+class change 	  05       物理     选修      15     2.50       41       43
+Wed Oct 17 00:00:28 PDT 2018
+student del 	001     STU1                 0.00
+Wed Oct 17 00:00:40 PDT 2018
+student change 	007      yxx       10,07     3.50
