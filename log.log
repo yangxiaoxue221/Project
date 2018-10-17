@@ -14,3 +14,18 @@ Wed Oct 17 00:00:28 PDT 2018
 student del 	001     STU1                 0.00
 Wed Oct 17 00:00:40 PDT 2018
 student change 	007      yxx       10,07     3.50
+Wed Oct 17 03:28:23 PDT 2018
+class input 	  11       语文     必修      30     2.50       22       50
+Wed Oct 17 03:30:39 PDT 2018
+testclass del 	  02       英语     必修      25     4.00       37       50
+student change 	006     STU6       05,09     4.00
+Wed Oct 17 03:35:19 PDT 2018
+student change 	006     STU6       05,09     5.50
+class change 	  09       生物     选修      13     3.00       34       35
+Wed Oct 17 03:42:56 PDT 2018
+student input 	009      xxy    01,02,03     4.50
+Wed Oct 17 03:44:46 PDT 2018
+student del 	009      xxy    01,02,03     4.50
+class change 	  03       数学     必修      30     4.50       30       55
+Wed Oct 17 03:50:09 PDT 2018
+student change 	008     STU8       07,11     5.00
